@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ShoowN/Wprowadzenie-do-Express/issues"
   },
-  "homepage": "https://github.com/ShoowN/Wprowadzenie-do-Express#readme"
+  "homepage": "https://github.com/ShoowN/Wprowadzenie-do-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
